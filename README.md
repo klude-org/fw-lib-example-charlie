@@ -1,2 +1,2 @@
-# fw-lib-example-charlie
-Charlie Type Lib
+# fw-pax-example-charlie
+Charlie Type Example for Package
